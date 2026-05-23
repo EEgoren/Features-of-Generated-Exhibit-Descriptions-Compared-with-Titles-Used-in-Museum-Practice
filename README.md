@@ -1,1 +1,1 @@
-# Features-of-Generated-Exhibit-Descriptions-Compared-with-Titles-Used-in-Museum-Practice
+# Особенности сгенерированных описаний экспонатов по сравнению с названиями из музейной практики. 
