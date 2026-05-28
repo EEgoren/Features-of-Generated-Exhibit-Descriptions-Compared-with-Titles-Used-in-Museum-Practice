@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Особенности сгенерированных описаний экспонатов по
+  сравнению с названиями из музейной практики.
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Борис
+    family-names: Орехов
+    affiliation: НИУ ВШЭ
+    orcid: 'https://orcid.org/0000-0002-9099-0436'
+  - given-names: Екатерина
+    family-names: Егоренкова
+    email: katarina.oe@gmail.com
+    affiliation: НИУ ВШЭ
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20365251
+repository-code: >-
+  https://github.com/EEgoren/Features-of-Generated-Exhibit-Descriptions-Compared-with-Titles-Used-in-Museum-Practice
+abstract: >-
+  В репозитории размещены таблицы с результатами генерации
+  машинных названий произведений искусства мультимодальными
+  моделями и рассчитанным косинусным расстоянием между
+  машинными и музейными названиями.
+keywords:
+  - digital humanities
+  - digital art history
+  - museum metadata
+  - multimodal models
+  - image captioning
+  - cosine distance
+  - Metropolitan Museum of Art
+license: CC-BY-4.0
