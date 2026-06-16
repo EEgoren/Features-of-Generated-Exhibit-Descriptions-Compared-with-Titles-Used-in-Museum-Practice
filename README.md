@@ -11,3 +11,5 @@
 | `paintings_mistral_with_cosine_distance.csv` | Mistral Small 3.2 24B Instruct 2506 Heretic v1.2-2 | [Hugging Face](https://huggingface.co/grayarea/Mistral-Small-3.2-24B-Instruct-2506-Heretic-v1.2-2) |
 | `paintings_qwen3_6_with_cosine_distance.csv` | Qwen3.6 35B A3B GGUF, q4_k_s | [Hugging Face](https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF) |
 | `paintings_qwen3_vl_with_cosine_distance.csv` | Qwen3-VL 8B Instruct, q8_0 | [Hugging Face](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
+
+Системный и пользовательский промпты расположены в файле Prompt.txt
